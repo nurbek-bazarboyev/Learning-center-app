@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "683788994938",
+    "project_id": "hardworkapp-1bb81",
+    "storage_bucket": "hardworkapp-1bb81.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:683788994938:android:ace1ec98c35a6585aaeec3",
+        "android_client_info": {
+          "package_name": "com.example.hard_work_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBPrYGaWADQ1AKLQhW_9gTN6PEBslzWfMw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
